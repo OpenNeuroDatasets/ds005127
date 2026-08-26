@@ -1,7 +1,7 @@
 {
 	"Name": "AMRI 16-N-0031 sleep1",
 	"BIDSVersion": "1.4.1",
-	"HEDVersion": "",
+	"HEDVersion": "n/a",
 	"DatasetType": "raw",
 	"License": "LICENSE",
 	"Authors": ["Picchioni, Dante","Duyn, Jeff H","de Zwart, Jacco A"],
