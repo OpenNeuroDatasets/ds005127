@@ -1,3 +1,5 @@
+2.0.3 2026-10-27
+  - Added derivatives/afni_proc_motionpars, which contains the .1D files from afni_proc.py
 2.0.2 2026-08-26
   - Bugfix: the sub-00105_ses-2_desc-slim.txt appeared to be empty previously
 2.0.1 2026-06-09
